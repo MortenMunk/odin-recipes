@@ -1,0 +1,1 @@
+Going through the odin project for fun.
